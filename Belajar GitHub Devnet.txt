@@ -2,3 +2,6 @@ Tahapan Belajar GitHub
 1. Belajar Repo
 2. Belajar Git
 3. Belajar GitHub
+4. Belajar config
+5. Belajar Pull
+6. Belajar Push
